@@ -1,1 +1,26 @@
-# Acompa-amientoSoftware
+# Proyecto Acom. Diseño
+
+Colección de implementacion de código enfocadas en patrones de diseño.  
+Cada kata presenta un problema real de código que puede ser resuelto aplicando un patrón de diseño específico.
+
+## Objetivo
+
+El objetivo de el proyecto es practicar la identificación y aplicación de patrones de diseño en situaciones concretas.
+
+Cada kata incluye:
+
+- **Contexto**: Un escenario real del mundo del desarrollo.
+- **Challenge**: Código con problemas de diseño que necesita refactorización.
+- **Solution**: Una implementación que aplica el patrón de diseño apropiado.
+
+## Estructura
+
+Cada implementacion está organizada de la siguiente manera:
+
+```text
+kata-name/
+├── README.md         # Descripción del patrón y cuándo usarlo
+├── challenge/
+│   └── README.md     # Instrucciones del challenge
+└── solution/
+    └── README.md     # Explicación de la solución
