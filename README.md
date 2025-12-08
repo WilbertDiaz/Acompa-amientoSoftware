@@ -17,10 +17,3 @@ Cada kata incluye:
 
 Cada implementacion está organizada de la siguiente manera:
 
-```text
-kata-name/
-├── README.md         # Descripción del patrón y cuándo usarlo
-├── challenge/
-│   └── README.md     # Instrucciones del challenge
-└── solution/
-    └── README.md     # Explicación de la solución
