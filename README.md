@@ -25,13 +25,3 @@ El código está organizado por carpetas, donde cada una contiene un ejercicio a
 | **[Facade](./facade)** | Estructural | Un menú simplificado que coordina la creación de pedidos complejos para el cliente. |
 | **[Template Method](./template_method)** | Comportamiento | Algoritmo estandarizado para preparar bebidas calientes (Café y Té) reutilizando pasos comunes. |
 
-## Estructura
-
-Cada ejercicio esta organizado de la siguiente manera:
-
-name/
-├── README.md           # Descripción del patrón y cuándo usarlo
-├── challenge/          
-│   └── README.md       # Instrucciones del challenge con codigo implementado
-└── solution/           
-    └── README.md       # Explicación de la solución
